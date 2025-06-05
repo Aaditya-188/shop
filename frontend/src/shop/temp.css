@@ -1,0 +1,12 @@
+.cart-plus-minus-box-2 {
+  flex: 0 0 100%; /* Full width for the third item */
+  padding: 0 40px;
+}
+
+.select-product-full {
+  width: 100%;
+}
+
+.select-product-full select {
+  text-align: center;
+}
